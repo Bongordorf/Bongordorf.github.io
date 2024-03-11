@@ -41,25 +41,16 @@ html {
     font-size: 30px;
     text-decoration: none;
 }
+
 #back2Top:hover {
     background-color: #0B6623;
     color: #ffffff;
 }
 
-.btn btn-primary page-scroll {
-    background-color: #0B6623;
-    color: #ffffff;
-    padding: 10px 20px;
-    border-radius: 5px;
-  }
-
-.welcome-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    color: #ffffff;
-    background: #8A9A5B;
+.picture-section {
+    background: #587e60;
 }
+
 .about-section {
     height: 100%;
     padding-top: 150px;
@@ -91,6 +82,10 @@ html {
     margin: 0.5rem 0;
 }
 
+.skill-category {
+    color: rgb(42, 42, 150);
+}
+
 .contact-section {
     height: 100%;
     padding-top: 150px;
@@ -108,17 +103,14 @@ html {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-
     color: #ffffff;
-
     background-color: #8A9A5B;
-    
 }
 
 .navbar-default {
     color: #ffffff;;
-    background-color:  #093923;
-    border-color:  #093923;
+    background-color:#093923;
+    border-color:#093923;
 }
 
 .navbar-default .navbar-brand {
