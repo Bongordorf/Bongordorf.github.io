@@ -47,6 +47,22 @@ html {
     color: #ffffff;
 }
 
+a:link {
+    color: rgb(24, 113, 245);
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:hover {
+    color: rgb(105, 181, 252);
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: #3e4437;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
 .picture-section {
     background: #587e60;
 }
