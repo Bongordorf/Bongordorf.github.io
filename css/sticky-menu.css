@@ -64,7 +64,10 @@ a:active {
 }
 
 .picture-section {
+    padding-top: 16px;
+    height: auto;
     background: #587e60;
+    width: 100%;
 }
 
 .about-section {
