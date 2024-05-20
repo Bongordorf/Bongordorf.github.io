@@ -17,7 +17,27 @@ html {
     .top-nav-collapse {
         padding: 0;
     }
+    
+    
+}
 
+@media only screen and (max-width: 600px) {
+    
+    .navbar-default {
+        
+        font-size: 1.2em;
+        
+        padding-bottom: 25px;
+        
+    }
+    
+    .picture-section {
+        margin-top: 25px;
+        height: auto;
+        background: #587e60;
+        width: 100%;
+    }
+    
 }
 
 #back2Top {
@@ -65,7 +85,7 @@ a:active {
 }
 
 .picture-section {
-    padding-top: 16px;
+    padding-top: 80px;
     height: auto;
     background: #587e60;
     width: 100%;
@@ -158,16 +178,6 @@ a:active {
     
 }
 
-@media only screen and (max-width: 600px) {
-
-    .navbar-default {
-  
-      font-size: 1.2em;
-      
-      padding-bottom: 16px;
-  
-     }
-}
 
 .navbar-default .navbar-brand {
     color: #ffffff;
